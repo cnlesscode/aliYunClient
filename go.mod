@@ -7,6 +7,7 @@ require github.com/alibabacloud-go/darabonba-openapi/v2 v2.1.7
 require (
 	github.com/alibabacloud-go/endpoint-util v1.1.0 // indirect
 	github.com/alibabacloud-go/openapi-util v0.1.1 // indirect
+	github.com/alibabacloud-go/rds-20140815/v12 v12.3.0 // indirect
 	github.com/cnlesscode/gotool v0.1.0 // indirect
 	github.com/stretchr/testify v1.7.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
